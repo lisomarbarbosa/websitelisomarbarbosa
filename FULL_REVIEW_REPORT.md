@@ -1,0 +1,131 @@
+# Relatório de Revisão do Projeto
+## Árvore (parcial):
+📄 .gitignore
+📄 README.md
+📄 bun.lockb
+📄 components.json
+📄 eslint.config.js
+📄 index.html
+📄 package-lock.json
+📄 package.json
+📄 postcss.config.js
+📁 public
+  📄 favicon.ico
+  📄 favicon.png
+  📄 og.webp
+  📄 placeholder.svg
+  📁 public
+    📄 robots.txt
+  📄 robots.txt
+  📄 sitemap.xml
+📁 src
+  📄 App.css
+  📄 App.tsx
+  📁 assets
+    📄 advogado-corpo-inteiro-no-bg.png
+    📄 advogado-corpo-inteiro.png
+    📄 advogado-novo.png
+    📄 advogado-perfil-no-bg.png
+    📄 advogado-perfil.png
+    📄 logo.jpeg
+    📄 logo.png
+    📁 testimonials
+      📄 dhyservice.jpeg
+      📄 lan-telecom.jpeg
+      📄 paulo-henrique.jpeg
+      📄 washington-lima.jpeg
+  📁 components
+    📄 About.tsx
+    📄 Blog.tsx
+    📄 Contact.tsx
+    📄 Footer.tsx
+    📄 Header.tsx
+    📄 Hero.tsx
+    📄 PracticeAreas.tsx
+    📄 ScrollToTop.tsx
+    📄 Testimonials.tsx
+    📄 ThemeToggle.tsx
+    📁 ui
+      📄 accordion.tsx
+      📄 alert-dialog.tsx
+      📄 alert.tsx
+      📄 aspect-ratio.tsx
+      📄 avatar.tsx
+      📄 badge.tsx
+      📄 breadcrumb.tsx
+      📄 button.tsx
+      📄 calendar.tsx
+      📄 card.tsx
+      📄 carousel.tsx
+      📄 chart.tsx
+      📄 checkbox.tsx
+      📄 collapsible.tsx
+      📄 command.tsx
+      📄 context-menu.tsx
+      📄 dialog.tsx
+      📄 drawer.tsx
+      📄 dropdown-menu.tsx
+      📄 form.tsx
+      📄 hover-card.tsx
+      📄 input-otp.tsx
+      📄 input.tsx
+      📄 label.tsx
+      📄 menubar.tsx
+      📄 navigation-menu.tsx
+      📄 pagination.tsx
+      📄 popover.tsx
+      📄 progress.tsx
+      📄 radio-group.tsx
+      📄 resizable.tsx
+      📄 scroll-area.tsx
+      📄 select.tsx
+      📄 separator.tsx
+      📄 sheet.tsx
+      📄 sidebar.tsx
+      📄 skeleton.tsx
+      📄 slider.tsx
+      📄 sonner.tsx
+      📄 switch.tsx
+      📄 table.tsx
+      📄 tabs.tsx
+      📄 textarea.tsx
+      📄 toast.tsx
+      📄 toaster.tsx
+      📄 toggle-group.tsx
+      📄 toggle.tsx
+      📄 tooltip.tsx
+      📄 use-toast.ts
+  📁 hooks
+    📄 use-mobile.tsx
+    📄 use-toast.ts
+  📄 index.css
+  📁 lib
+    📄 utils.ts
+  📄 main.tsx
+  📁 pages
+    📄 BlogPage.tsx
+    📄 Index.tsx
+    📄 NotFound.tsx
+    📁 articles
+      📄 ComplianceLGPD.tsx
+      📄 CrimesCiberneticos.tsx
+      📄 CustodiaCriptoativos.tsx
+      📄 FakeNewsDifamacao.tsx
+      📄 GolpesCriptomoedas.tsx
+      📄 InstagramHackeado.tsx
+      📄 LGPDErrosComuns.tsx
+      📄 ProtecaoDadosPessoais.tsx
+      📄 RegulamentacaoCriptomoedas.tsx
+  📄 vite-env.d.ts
+📄 tailwind.config.ts
+📄 tsconfig.app.json
+📄 tsconfig.json
+📄 tsconfig.node.json
+📄 vercel.json
+📄 vite.config.ts
+
+## Questões encontradas:
+- Imports possivelmente ausentes em src/App.tsx: ['@tanstack/react-query']
+
+## Correções aplicadas:
+- Nenhuma (projeto já OK).
