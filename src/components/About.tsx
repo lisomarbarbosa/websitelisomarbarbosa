@@ -1,5 +1,5 @@
 import { Shield, Award, Users, TrendingUp } from "lucide-react";
-import advogadoPerfil from "@/assets/advogado-novo.png";
+import advogadoPerfil from "@/assets/lisomar-barbossa-adv.png";
 
 const About = () => {
   const features = [
