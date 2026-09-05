@@ -10,6 +10,16 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'phishing-e-engenharia-social-aspectos-juridicos-e-direitos-das-vitimas',
+    title: 'Phishing e Engenharia Social: Aspectos Jurídicos e Direitos das Vítimas',
+    excerpt: 'Entenda os aspectos jurídicos do phishing e da engenharia social no Brasil, as leis aplicáveis, a responsabilidade dos bancos e como buscar o ressarcimento dos prejuízos.',
+    date: '2026-09-05',
+    readTime: '10 min',
+    category: 'Direito Digital',
+    image: 'https://images.unsplash.com/photo-1595896424050-f70867364590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3NzY4fDB8MXxyYW5kb218fHx8fHx8fHwxNzg4NjQ1OTA4fA&ixlib=rb-4.1.0&q=80&w=1080',
+  },
+
+  {
     slug: 'ofensas-nas-redes-sociais-consequencias-juridicas-e-como-se-proteger',
     title: 'Ofensas nas redes sociais: consequências jurídicas e como se proteger',
     excerpt: 'Entenda o que constitui ofensa nas redes, quais leis se aplicam e quais medidas você pode tomar para se defender ou evitar problemas.',
