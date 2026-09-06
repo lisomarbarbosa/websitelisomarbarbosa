@@ -10,6 +10,16 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'vazamento-de-dados-consequencias-juridicas-e-como-se-proteger',
+    title: 'Vazamento de dados: consequências jurídicas e como se proteger',
+    excerpt: 'Entenda as implicações legais de vazamentos de dados no Brasil, baseadas na LGPD, CDC e jurisprudência, e saiba quais medidas adotar.',
+    date: '2026-09-06',
+    readTime: '8 min',
+    category: 'Direito Digital',
+    image: 'https://images.unsplash.com/photo-1760548425298-22aa4b60fc16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3NzY4fDB8MXxyYW5kb218fHx8fHx8fHwxNzg4Njk2MTk0fA&ixlib=rb-4.1.0&q=80&w=1080',
+  },
+
+  {
     slug: 'phishing-e-engenharia-social-aspectos-juridicos-e-direitos-das-vitimas',
     title: 'Phishing e Engenharia Social: Aspectos Jurídicos e Direitos das Vítimas',
     excerpt: 'Entenda os aspectos jurídicos do phishing e da engenharia social no Brasil, as leis aplicáveis, a responsabilidade dos bancos e como buscar o ressarcimento dos prejuízos.',
