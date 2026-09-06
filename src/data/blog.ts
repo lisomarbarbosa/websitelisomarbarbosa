@@ -10,6 +10,16 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'protecao-de-menores-na-internet-guia-completo-sobre-as-obrigacoes-legais-das-plataformas-e-pais',
+    title: 'Proteção de Menores na Internet: Guia Completo sobre as Obrigações Legais das Plataformas e Pais',
+    excerpt: 'Entenda o panorama legal da proteção de crianças no ambiente digital, os deveres das empresas de tecnologia e a responsabilidade dos pais segundo o ECA e a LGPD.',
+    date: '2026-09-06',
+    readTime: '11 min',
+    category: 'Direito Digital',
+    image: 'https://images.unsplash.com/photo-1702368198452-d89194714d70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3NzY4fDB8MXxyYW5kb218fHx8fHx8fHwxNzg4NzEzMjE3fA&ixlib=rb-4.1.0&q=80&w=1080',
+  },
+
+  {
     slug: 'vazamento-de-dados-consequencias-juridicas-e-como-se-proteger',
     title: 'Vazamento de dados: consequências jurídicas e como se proteger',
     excerpt: 'Entenda as implicações legais de vazamentos de dados no Brasil, baseadas na LGPD, CDC e jurisprudência, e saiba quais medidas adotar.',
