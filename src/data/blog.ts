@@ -10,6 +10,16 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: 'responsabilidade-por-conteudo-ilicito-na-internet-guia-completo',
+    title: 'Responsabilidade por Conteúdo Ilícito na Internet: Guia Completo',
+    excerpt: 'Entenda a responsabilidade civil e criminal por conteúdos ilícitos na internet, os limites do Marco Civil da Internet e como agir em caso de agressões virtuais.',
+    date: '2026-09-07',
+    readTime: '8 min',
+    category: 'Direito Digital',
+    image: 'https://images.unsplash.com/photo-1598495037740-2c360cf49e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3NzY4fDB8MXxyYW5kb218fHx8fHx8fHwxNzg4ODA1NTMzfA&ixlib=rb-4.1.0&q=80&w=1080',
+  },
+
+  {
     slug: 'protecao-de-menores-na-internet-guia-completo-sobre-as-obrigacoes-legais-das-plataformas-e-pais',
     title: 'Proteção de Menores na Internet: Guia Completo sobre as Obrigações Legais das Plataformas e Pais',
     excerpt: 'Entenda o panorama legal da proteção de crianças no ambiente digital, os deveres das empresas de tecnologia e a responsabilidade dos pais segundo o ECA e a LGPD.',
